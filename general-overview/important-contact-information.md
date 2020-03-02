@@ -4,15 +4,14 @@
 
 
 
-Project Team Director - Lauren Stulgis \(ls948\)
+Name
 
-| Title | Name | Email |
+| Title | Email |  |
 | :--- | :--- | :--- |
-| Project Team Director | {{ DIRECTOR\_NAME }} | ls948 |
-
-Engineering Assistant Dean - Michael Thompson
-
-Project Team Assistant - Gibran el-Sulayman
+| Lauren Stulgis | Project Team Director | ls948@cornell.edu |
+| Michael Thompson | Assistant Dean | mot1@cornell.edu |
+| Gibran el-Sulayman | Project Team Assistant | gae27@cornell.edu |
+|  | Administrative Assistant  |  |
 
 Project Team Finance Manager - Kae-Lynn Buchanan Wilson
 
