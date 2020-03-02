@@ -4,14 +4,12 @@
 
 
 
-Name
-
-| Title | Email |  |
+| Name | Title | Email |
 | :--- | :--- | :--- |
 | Lauren Stulgis | Project Team Director | ls948@cornell.edu |
 | Michael Thompson | Assistant Dean | mot1@cornell.edu |
 | Gibran el-Sulayman | Project Team Assistant | gae27@cornell.edu |
-|  | Administrative Assistant  |  |
+| Kae-Lynn Buchanan Wilson | Administrative Assistant  | kbw28@cornell.edu |
 
 Project Team Finance Manager - Kae-Lynn Buchanan Wilson
 
